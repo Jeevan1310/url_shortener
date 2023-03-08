@@ -51,7 +51,7 @@ session_start();
               </li>
               <li class="nav-item position-static">
                 <!-- Toggle 
-                <a class="nav-link" href="CarGrid.php">Cars</a>-->
+                <a class="nav-link" href="index.php"></a>-->
               </li>
               <?php if(isset($_SESSION['activeuser'])){ ?>
               <li class="nav-item">
